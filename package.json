@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/straticjs/stratic-lint-module/issues"
   },
-  "homepage": "https://github.com/straticjs/stratic-lint-module#readme"
+  "homepage": "https://github.com/straticjs/stratic-lint-module#readme",
+  "dependencies": {
+    "es7-array.prototype.includes": "^2.0.0",
+    "read-package-json": "^2.0.10",
+    "requiredir": "^1.0.7"
+  }
 }
