@@ -1,0 +1,22 @@
+{
+  "name": "stratic-lint-module",
+  "version": "1.0.0",
+  "description": "Do some basic checks to ensure a module follows Stratic conventions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/straticjs/stratic-lint-module.git"
+  },
+  "keywords": [
+    "stratic"
+  ],
+  "author": "AJ Jordan <alex@strugee.net>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/straticjs/stratic-lint-module/issues"
+  },
+  "homepage": "https://github.com/straticjs/stratic-lint-module#readme"
+}
